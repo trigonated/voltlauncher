@@ -42,7 +42,7 @@ macOS support is not being worked on at the moment but planned for the future.
 
 ### Windows
 
- * Download the latest release.
+ * Download the [latest release](https://github.com/trigonated/voltlauncher/releases/tag/v0.1.0).
  * Extract anywhere you want and run `voltlauncher.exe`.
 
 ## Uninstall
